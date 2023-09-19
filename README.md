@@ -17,7 +17,7 @@ Projeto desenvolvido durante o Santander Bootcamp 2023 - Fullstack Java+Angular,
 
 - [x] **Listagem dos pokémons**: Listar os pokémons com o uso da API REST.
 
-- [x] **Load More**: Método para adicionar mais pokémons a lista, ampliando-se a quantia de pokémons mostrada ao usuário.
+- [x] **Load More**: Método para ampliar a quantia de pokémons mostrada ao usuário.
 
 
 ## Tecnologias Utilizadas
